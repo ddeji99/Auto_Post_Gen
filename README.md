@@ -56,4 +56,10 @@ This project uses GPT, LangChain, and CREW AI to develop a blog marketing automa
 
 4. **SEO Optimization Agent:** Further optimizes the generated content.
 
+## ※ Updates as of 8/29 ※
+1. **langgraph** has been changed to **crew ai**.
+2. The feature to add images when creating posts has been temporarily removed (code still exists).
 
+## ※ Additional Development Possibilities ※
+- The type of posts can be changed by modifying the prompt for Agent, Task, or GPT API.
+- Additional research on the feature of adding images to posts using multimodality.
