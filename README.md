@@ -21,6 +21,16 @@ python TRun.py
 # Run without image processing
 python Run_include_image.py
 ```
+```bash
+#example inputs
+Enter brand description:
+"Elegance is a fashion brand that harmonizes modern sensibilities with classic style, offering high-quality clothing and accessories. Our collection features stylish garments for all seasons, providing a wide range of options for trend-conscious customers. Elegance is committed to sustainable fashion, showcasing designs that allow customers to express their individuality."
+
+Enter the target market (e.g., fashion industry, tech industry):
+'fashion industry'
+
+```
+
 
 ## Background
 
