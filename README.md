@@ -63,7 +63,7 @@ This project uses GPT, LangChain, and CREW AI to develop a blog marketing automa
 - **Images:** Key images related to the brand that will be used visually in the post.
 
 ### Output Configuration:
-- **Blog Post:** The generated marketing blog post will be automatically saved as a `.hwp` file.
+- **Blog Post:** The generated marketing blog post will be automatically saved as a `.docx` file.
 
 *Note: Final confirmation before uploading the post allows for improvements in the initial input prompt.*
 
