@@ -2,7 +2,25 @@
 
 ## Overview
 
-This project aims to develop an algorithm that automatically generates blog marketing posts by receiving brand descriptions and images. The posts will be saved as `.hwp` files. The implementation leverages GPT, LangChain, and CREW AI to create an `Agent()` that automates this process.
+![arch](./src/Architecture.svg)
+
+This project aims to develop an algorithm that automatically generates blog marketing posts by receiving brand descriptions and images. The posts will be saved as `.docx` files. The implementation leverages GPT, LangChain, and CREW AI to create an `Agent()` that automates this process.
+
+## Usage
+
+```bash
+# Clone the project
+git clone https://github.com/ddeji99/Auto_Post_Gen.git
+
+# Navigate to the project directory
+cd Auto_Post_Gen
+
+# Run with image processing (incomplete)
+python TRun.py
+
+# Run without image processing
+python Run_include_image.py
+```
 
 ## Background
 
